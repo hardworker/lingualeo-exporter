@@ -1,0 +1,15 @@
+{
+  "name": "lingualeo-exporter",
+  "version": "0.0.1",
+  "description": "It's a simple NodeJS app that allows you to download the whole Lingualeo dictonary to the csv file",
+  "main": "index.js",
+  "author": "Igor Sova",
+  "license": "MIT",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "superagent": "^5.2.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
