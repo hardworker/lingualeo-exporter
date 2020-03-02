@@ -3,7 +3,15 @@
   "version": "0.0.1",
   "description": "It's a simple NodeJS app that allows you to download the whole Lingualeo dictonary to the csv file",
   "main": "index.js",
-  "author": "Igor Sova",
+  "repository": {
+    "url": "https://github.com/hardworker/lingualeo-exporter",
+    "type": "git"
+  },
+  "homepage": "https://github.com/hardworker/lingualeo-exporter",
+  "author": {
+    "name": "hardworker",
+    "email": "skysova@gmail.com"
+  },
   "license": "MIT",
   "dependencies": {
     "csv-writer": "^1.6.0",
