@@ -92,10 +92,10 @@ ms@^2.1.1:
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.2.tgz#d09d1f357b443f493382a8eb3ccd183872ae6009"
   integrity sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==
 
-prettier@^1.19.1:
-  version "1.19.1"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.19.1.tgz#f7d7f5ff8a9cd872a7be4ca142095956a60797cb"
-  integrity sha512-s7PoyDv/II1ObgQunCbB9PdLmUcBZcnWOcxDh7O0N/UwDEsHyqkW+Qh28jW+mVuCdx7gLB0BotYI1Y6uI9iyew==
+prettier@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.0.1.tgz#3f00ac71263be34684b2b2c8d7e7f63737592dac"
+  integrity sha512-piXGBcY1zoFOG0MvHpNE5reAGseLmaCRifQ/fmfF49BcYkInEs/naD/unxGNAeOKFA5+JxVrPyMvMlpzcd20UA==
 
 qs@^6.9.1:
   version "6.9.1"
