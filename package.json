@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "csv-writer": "^1.6.0",
-    "superagent": "^5.2.1"
+    "superagent": "^6.0.0"
   },
   "devDependencies": {
     "prettier": "^2.0.5"
